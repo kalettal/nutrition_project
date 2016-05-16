@@ -28,7 +28,7 @@
     <!--Fim Logo-->
     
     <!--Calculadora-->
-    <div id="calculadora">
+        <div id="calculadora">
     	<!--Formulario-->
         <form name="calc" method="get" enctype="multipart/form-data" action="resultBMI.php" class="form">
         	
@@ -53,27 +53,29 @@
                 <button class="buttomCalculo" "submit" name="envia" >Calcular!</button>
             
             </fieldset></form>
-	</div>
+	    </div>
         
         <div ><img src="img/salud.gif"  width="350px" height="200px"></div>
 			
         <!--Fim Formulario-->
-    </div>
+        </div>
+        </div>
+    </div>    
     <!--Fim Calculadora-->
-	</div>
+
+        <div id="footer">
+		    <h2>&#169;CopyRight</h2>
+		
+		    <div class="images">
+		        <a href="https://www.instagram.com"><img src="img/instagram.png"  width="40px" height="40px"></a>
+		        <a href="https://www.facebook.com"><img src="img/facebook.png" width="30px" height="30px"></a>	
+		        <a href="https://accounts.google.com/ServiceLogin?sacu=1&continue=https%3A%2F%2Fphotos.google.com%2Flogin&followup=https%3A%2F%2Fphotos.google.com%2Flogin&osid=1#identifier"><img src="img/google+.png"  width="30px" height="30px"></a>	
+		        <a href="https://twitter.com"><img src="img/twitter.png"  width="30px" height="30px"></a>	
+		    </div>
+        </div>
 	
-   <div id="footer2">
-		<h2>&#169;CopyRight</h2>
-	   <div class="imagenes">
-		<a href="https://www.instagram.com"><img src="img/instagram.png"  width="40px" height="40px"></a>
-		<a href="https://www.facebook.com"><img src="img/facebook.png" width="30px" height="30px"></a>	
-		<a href="https://accounts.google.com/ServiceLogin?sacu=1&continue=https%3A%2F%2Fphotos.google.com%2Flogin&followup=https%3A%2F%2Fphotos.google.com%2Flogin&osid=1#identifier"><img src="imgs/google+.png"  width="30px" height="30px"></a>	
-		<a href="https://twitter.com"><img src="img/twitter.png"  width="30px" height="30px"></a>	
-		</div>
 	</div>
-	
-	</div>
-	</div>
+</div>
 <!--Fim Content-->   
 </body>
     

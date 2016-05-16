@@ -165,7 +165,7 @@ h2{
 	padding: 10px 60px;
 }
 
-.imagenes{
+.images{
 	width: 350px;
 	height: 5%;
 	float: right;
@@ -242,7 +242,7 @@ background-size: cover;}
 /* IMC */
 #imc{width:100%; height:auto; padding-left:100px;}
 #resultado h1{font:20px , sans-serif; font-weight:bold; color:#FFF; margin-left:50px;}
-#resultado h2{font:100px Arial, Helvetic, sans-serif; font-weight:bold; color:#FFF; margin-left:50px;}
+#resultado h2{font:100px Arial, Helvetic, sans-serif; font-weight:bold; color:black; margin-left:50px;}
 
 /* Calculadora */
 #resultado{width:500px; height:406px; background-image:url(../img/res.png); background-repeat:no-repeat; float:right; padding-left:15px; padding-top:40px;}
