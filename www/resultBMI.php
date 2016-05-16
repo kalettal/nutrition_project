@@ -1,7 +1,3 @@
-<!--
-Desenvolvido por Designer Lucas
-www.designerlucas.net
--->
 <!doctype html>
 <html>
 
