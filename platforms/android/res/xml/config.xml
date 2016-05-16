@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
+<<<<<<< HEAD
+<widget id="com.project_multimedia.app_extremeHealth" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+=======
 <widget id="com.multimedia_group.nutrition_project" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d
     <preference name="loglevel" value="DEBUG" />
     <feature name="Whitelist">
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
+<<<<<<< HEAD
+    <name>app_extremeHealthHelp</name>
+=======
     <name>nutrtition_project</name>
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>

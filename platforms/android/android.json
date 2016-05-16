@@ -19,7 +19,11 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
+<<<<<<< HEAD
+            "PACKAGE_NAME": "com.project_multimedia.app_extremeHealth"
+=======
             "PACKAGE_NAME": "com.multimedia_group.nutrition_project"
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d
         }
     },
     "dependent_plugins": {},

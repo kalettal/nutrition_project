@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="C:\Users\Yeimi\app_extremeHealthHelp\platforms\android\CordovaLib\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\Yeimi\app_extremeHealthHelp\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
+=======
 <merger version="3"><dataSet config="main"><source path="C:\Users\Yeimi\nutrition_project\platforms\android\CordovaLib\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\Yeimi\nutrition_project\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d

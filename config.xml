@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
+<<<<<<< HEAD
+<widget id="com.project_multimedia.app_extremeHealth" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>app_extremeHealthHelp</name>
+=======
 <widget id="com.multimedia_group.nutrition_project" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>nutrtition_project</name>
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -23,4 +28,8 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+<<<<<<< HEAD
+    <engine name="android" spec="~5.1.1" />
+=======
+>>>>>>> 2a628a1fe35085a2adcfc227bb65ea9f540a042d
 </widget>
