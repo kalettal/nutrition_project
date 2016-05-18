@@ -4,9 +4,15 @@ use nutrition_project;
 
 CREATE TABLE BMI(
 id_BMI int(10),
-BMI varchar(50),
 description varchar(50),
+initial_bmi double,
+final_bmi double,
 primary key (id_BMI));
+
+
+insert into BMI(id_BMI, description, initial_bmi, final_bmi) values(0,'bajo peso',16.00,18.50);
+insert into BMI(id_BMI, description, initial_bmi, final_bmi) values(1,'normal',18.50,24.99);
+insert into BMI(id_BMI, description, initial_bmi, final_bmi) values(2,'sobre peso',25.00,40.00);
 
 CREATE TABLE exercise (
 id_exercise int(10),
